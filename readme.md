@@ -19,4 +19,7 @@ eliminamos ingredientes porque vamos a comprar el panque.
  quiero llorar:(
 
 # modificamos por metodos diferentes
-ya quiero llorar :( :(
+ya quiero llorar  :( :(
+
+#esta es la buena
+ya queda por favor

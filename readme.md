@@ -10,5 +10,8 @@ Vamos a consensuar como se hace un panque.
 -Jazmin
 -...
 
+# Caso de uso 
+
+eliminamos ingredientes porque vamos a comprar el panque.
  
 

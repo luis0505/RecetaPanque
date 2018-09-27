@@ -15,3 +15,5 @@ Vamos a consensuar como se hace un panque.
 eliminamos ingredientes porque vamos a comprar el panque.
  
 
+# modificamos por metodos diferentes
+ya quiero llorar :( :(

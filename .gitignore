@@ -1,1 +1,5 @@
-Ignorame
+
+#Para ignorar todos uso *
+# con ! niego exclucion para lograr incluirlos 
+#*
+#!readme.md
